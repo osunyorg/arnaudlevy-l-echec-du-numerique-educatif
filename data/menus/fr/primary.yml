@@ -2,10 +2,12 @@
 title: Menu principal
 items:
 - title: Bibliographie
+  slug: bibliographie
   target: "/bibliographie/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/bibliographie"
   file: content/fr/pages/bibliographie/_index.html
 
